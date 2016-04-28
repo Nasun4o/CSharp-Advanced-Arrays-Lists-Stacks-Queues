@@ -1,0 +1,9 @@
+C:\Users\PC-PC\documents\visual studio 2013\Projects\HomeWorkCSharpAdvanceListsArraysEtc\SortArrayOfNumbersSelectionSort\bin\Debug\SortArrayOfNumbersSelectionSort.exe.config
+C:\Users\PC-PC\documents\visual studio 2013\Projects\HomeWorkCSharpAdvanceListsArraysEtc\SortArrayOfNumbersSelectionSort\bin\Debug\SortArrayOfNumbersSelectionSort.exe
+C:\Users\PC-PC\documents\visual studio 2013\Projects\HomeWorkCSharpAdvanceListsArraysEtc\SortArrayOfNumbersSelectionSort\bin\Debug\SortArrayOfNumbersSelectionSort.pdb
+C:\Users\PC-PC\documents\visual studio 2013\Projects\HomeWorkCSharpAdvanceListsArraysEtc\SortArrayOfNumbersSelectionSort\obj\Debug\SortArrayOfNumbersSelectionSort.exe
+C:\Users\PC-PC\documents\visual studio 2013\Projects\HomeWorkCSharpAdvanceListsArraysEtc\SortArrayOfNumbersSelectionSort\obj\Debug\SortArrayOfNumbersSelectionSort.pdb
+C:\Users\PC-PC\documents\visual studio 2013\Projects\HomeWorkCSharpAdvanceListsArraysEtc\SortArrayOfNumbersSelectionSort\obj\Debug\SortArrayOfNumbersSelectionSort.csprojResolveAssemblyReference.cache
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Arrays, lists, stacks, queues\HomeWorkCSharpAdvanceListsArraysEtc\SortArrayOfNumbersSelectionSort\bin\Debug\SortArrayOfNumbersSelectionSort.exe.config
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Arrays, lists, stacks, queues\HomeWorkCSharpAdvanceListsArraysEtc\SortArrayOfNumbersSelectionSort\obj\Debug\SortArrayOfNumbersSelectionSort.exe
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Arrays, lists, stacks, queues\HomeWorkCSharpAdvanceListsArraysEtc\SortArrayOfNumbersSelectionSort\obj\Debug\SortArrayOfNumbersSelectionSort.pdb

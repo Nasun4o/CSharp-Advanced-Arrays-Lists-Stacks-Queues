@@ -1,0 +1,9 @@
+C:\Users\PC-PC\Documents\Visual Studio 2013\Projects\HomeWorkCSharpAdvanceListsArraysEtc\CategorizeNumsAndFindMinMaxAverg\bin\Debug\CategorizeNumsAndFindMinMaxAverg.exe.config
+C:\Users\PC-PC\Documents\Visual Studio 2013\Projects\HomeWorkCSharpAdvanceListsArraysEtc\CategorizeNumsAndFindMinMaxAverg\bin\Debug\CategorizeNumsAndFindMinMaxAverg.exe
+C:\Users\PC-PC\Documents\Visual Studio 2013\Projects\HomeWorkCSharpAdvanceListsArraysEtc\CategorizeNumsAndFindMinMaxAverg\bin\Debug\CategorizeNumsAndFindMinMaxAverg.pdb
+C:\Users\PC-PC\Documents\Visual Studio 2013\Projects\HomeWorkCSharpAdvanceListsArraysEtc\CategorizeNumsAndFindMinMaxAverg\obj\Debug\CategorizeNumsAndFindMinMaxAverg.csprojResolveAssemblyReference.cache
+C:\Users\PC-PC\Documents\Visual Studio 2013\Projects\HomeWorkCSharpAdvanceListsArraysEtc\CategorizeNumsAndFindMinMaxAverg\obj\Debug\CategorizeNumsAndFindMinMaxAverg.exe
+C:\Users\PC-PC\Documents\Visual Studio 2013\Projects\HomeWorkCSharpAdvanceListsArraysEtc\CategorizeNumsAndFindMinMaxAverg\obj\Debug\CategorizeNumsAndFindMinMaxAverg.pdb
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Arrays, lists, stacks, queues\HomeWorkCSharpAdvanceListsArraysEtc\CategorizeNumsAndFindMinMaxAverg\bin\Debug\CategorizeNumsAndFindMinMaxAverg.exe.config
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Arrays, lists, stacks, queues\HomeWorkCSharpAdvanceListsArraysEtc\CategorizeNumsAndFindMinMaxAverg\obj\Debug\CategorizeNumsAndFindMinMaxAverg.exe
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Arrays, lists, stacks, queues\HomeWorkCSharpAdvanceListsArraysEtc\CategorizeNumsAndFindMinMaxAverg\obj\Debug\CategorizeNumsAndFindMinMaxAverg.pdb

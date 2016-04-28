@@ -1,0 +1,6 @@
+C:\Users\PC-PC\Documents\Visual Studio 2013\Projects\HomeWorkCSharpAdvanceListsArraysEtc\LongestIncreasingSequence\bin\Debug\LongestIncreasingSequence.exe.config
+C:\Users\PC-PC\Documents\Visual Studio 2013\Projects\HomeWorkCSharpAdvanceListsArraysEtc\LongestIncreasingSequence\obj\Debug\LongestIncreasingSequence.csprojResolveAssemblyReference.cache
+C:\Users\PC-PC\Documents\Visual Studio 2013\Projects\HomeWorkCSharpAdvanceListsArraysEtc\LongestIncreasingSequence\bin\Debug\LongestIncreasingSequence.exe
+C:\Users\PC-PC\Documents\Visual Studio 2013\Projects\HomeWorkCSharpAdvanceListsArraysEtc\LongestIncreasingSequence\bin\Debug\LongestIncreasingSequence.pdb
+C:\Users\PC-PC\Documents\Visual Studio 2013\Projects\HomeWorkCSharpAdvanceListsArraysEtc\LongestIncreasingSequence\obj\Debug\LongestIncreasingSequence.exe
+C:\Users\PC-PC\Documents\Visual Studio 2013\Projects\HomeWorkCSharpAdvanceListsArraysEtc\LongestIncreasingSequence\obj\Debug\LongestIncreasingSequence.pdb
